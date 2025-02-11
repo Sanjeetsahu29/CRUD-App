@@ -21,10 +21,10 @@ This is a well-structured CRUD (Create, Read, Update, Delete) API built using **
 
 ## 🏗 Folder Structure
 📂 crud-api
-│── 📂 controllers      # Business logic for routes
-│── 📂 models           # Mongoose schema/models
-│── 📂 routes           # API endpoints
-│── 📜 .env             # Environment variables
-│── 📜 index.js        # Entry point
-│── 📜 package.json     # Dependencies & scripts
+│── 📂 controllers      # Business logic for routes<br>
+│── 📂 models           # Mongoose schema/models<br>
+│── 📂 routes           # API endpoints<br>
+│── 📜 .env             # Environment variables<br>
+│── 📜 index.js        # Entry point<br>
+│── 📜 package.json     # Dependencies & scripts<br>
 
