@@ -20,7 +20,7 @@ This is a well-structured CRUD (Create, Read, Update, Delete) API built using **
 ---
 
 ## 🏗 Folder Structure
-📂 crud-api
+📂 crud-api<br>
 │── 📂 controllers      # Business logic for routes<br>
 │── 📂 models           # Mongoose schema/models<br>
 │── 📂 routes           # API endpoints<br>
